@@ -892,3 +892,7 @@ body {
 #publications a {
     margin-left: 10px;
 }
+
+#news a {
+    font-weight:600;
+}
