@@ -1,8 +1,8 @@
 ---
 title: Haptic Object Recognition
-subtitle: How to combine haptic modalities for object recognition
+subtitle: How to combine haptic modalities for object recognition</br></br></br>
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2018-03-18
 img: haptic-rec3.png
 thumbnail: haptic-rec2-thumbnail.png

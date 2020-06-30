@@ -2,7 +2,7 @@
 title: Tagging systems
 subtitle: Collective representations, language and tagging systems
 layout: default
-modal-id: 3
+modal-id: 5
 date: 2018-03-17
 img: tagging-systems.png
 thumbnail: tagging-systems-thumbnail-w.png

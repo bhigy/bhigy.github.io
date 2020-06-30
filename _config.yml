@@ -3,7 +3,7 @@ url: https://bhigy.github.io
 
 # Site settings
 title: Bertrand Higy
-email: bertrand.higy@gmail.com
+email: bertrand.higy@protonmail.com
 description: "My personal page."
 
 
@@ -18,15 +18,16 @@ social:
     url: http://www.linkedin.com/in/bertrandhigy
   - title: building
     type: fa
-    url: https://www.iit.it/people/bertrand-higy
+    url: https://research.tilburguniversity.edu/en/persons/bertrand-higy
 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: iCub Facility
-  - line: Istituto Italiano di Tecnologia
-  - line: Via Morego, 30
-  - line: Genova 16163, Italy
+  - line: Tilburg University
+  - line: Attn. Bertrand Higy - Room 138
+  - line: PO Box 90153
+  - line: 5000 LE Tilburg
+  - line: The Netherlands
 
 # Build settings
 markdown: kramdown

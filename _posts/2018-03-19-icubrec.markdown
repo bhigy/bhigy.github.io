@@ -1,8 +1,8 @@
 ---
 title: iCubRec
-subtitle: Command Recognition for the iCub plateform
+subtitle: Command Recognition for the iCub plateform</br></br></br>
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2018-03-19
 img: icubrec.png
 thumbnail: icubrec-thumbnail.png

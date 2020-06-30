@@ -2,7 +2,7 @@
 title: Multimodal integration
 subtitle: Connectionist modeling of multimodal integration
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2018-03-16
 img: multimodal-int.png
 thumbnail: multimodal-int-thumbnail-w.png
