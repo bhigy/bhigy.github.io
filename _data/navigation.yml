@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Bio"
+    url: /bio/
+  - title: "Contact"
+    url: /contact/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
