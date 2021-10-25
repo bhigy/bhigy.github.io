@@ -18,15 +18,16 @@ social:
     url: http://www.linkedin.com/in/bertrandhigy
   - title: building
     type: fa
-    url: https://research.tilburguniversity.edu/en/persons/bertrand-higy
+    url: https://www.ru.nl/english/people/higy-b/
 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Tilburg University
-  - line: Attn. Bertrand Higy - Room 138
-  - line: PO Box 90153
-  - line: 5000 LE Tilburg
+  - line: Radboud University
+  - line: Centre for Language and Speech Technology
+  - line: Attn. Bertrand Higy - Room 8.15
+  - line: Postbus 9103
+  - line: 6500 HD NIJMEGEN
   - line: The Netherlands
 
 # Build settings
