@@ -1,0 +1,18 @@
+---
+---
+{{ reference }}
+
+{% if entry.url %}
+<a href="{{entry.url}}"><i class="fas fa-external-link-alt" title="External link" style="font-size: 80%"></i></a>
+{% elsif entry.doi %}
+<a href="https://doi.org/{{entry.doi}}"><i class="fas fa-external-link-alt" title="External link" style="font-size: 80%"></i></a>
+{% endif %}
+{% if link %}
+<a href="{{link}}"><i class="fas fa-fw fa-file-pdf" title="PDF"></i></a>
+{% endif %}
+{% if entry.github %}
+<a href="{{entry.github}}"><i class="fab fa-fw fa-github" title="Github repository"></i></a>
+{% endif %}
+{% if entry.data %}
+<a href="{{entry.data}}"><i class="fas fa-fw fa-database" title="Data"></i></a>
+{% endif %}

@@ -297,3 +297,18 @@ defaults:
       layout: single
       author_profile: true
 
+# jekyll/scholar
+scholar:
+  style: apa
+  locale: en
+  source: ./_bibliography
+  bibliography: references.bib
+  allow_locale_overrides: false
+  sort_by: year, month
+  order: descending
+  group_by: none
+  group_order: ascending
+  #bibtex_filters: latex,smallcaps,superscript
+  raw_bibtex_filters:
+  bibliography_template: bib
+  repository: ./_files
