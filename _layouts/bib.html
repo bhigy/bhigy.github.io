@@ -1,6 +1,6 @@
 ---
 ---
-{{ reference }}
+{{ reference | regex_replace: '\)\. ([^\.]*)\.', '). <span style="font-weight: bold">\1</span>.' | regex_replace: 'https[\w:/.\d-]*', '' }}
 
 {% if entry.url %}
 <a href="{{entry.url}}"><i class="fas fa-external-link-alt" title="External link" style="font-size: 80%"></i></a>
